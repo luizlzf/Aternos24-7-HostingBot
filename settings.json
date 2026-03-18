@@ -8,8 +8,8 @@
   "server": {
     "ip": "RNarnia.aternos.me",
     "port": 29687,
-    "version": "1.20.1",
-    "try-creative": false
+    "version": "1.21.1",
+    "try-creative": true 
   },
   "position": {
     "enabled": true,
@@ -30,11 +30,16 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "oq vc ta fazendo luke ",
-        "luke eu te amo!",
-        "luke casa comigo!"
-      ]
+      "messages":[
+       "luke eu te amo!",
+       "FOX ESTEVE AQUI",
+       "I AM STUPID",
+       "SIMPLY LOVELY",
+       "TU DU DU DU ",
+       "I ALWAYS COME BACK",
+       "LUIZ ESTA OUVINDO",
+       "§C LUIZ ESTA EM TODOS #52 OS LUGARES" 
+       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -73,12 +78,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.gg/AsrBHSxt",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
