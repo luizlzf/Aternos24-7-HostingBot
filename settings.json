@@ -31,14 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages":[
-       "luke eu te amo!",
-       "FOX ESTEVE AQUI",
-       "I AM STUPID",
-       "SIMPLY LOVELY",
-       "TU DU DU DU ",
-       "I ALWAYS COME BACK",
-       "LUIZ ESTA OUVINDO",
-       "§C LUIZ ESTA EM TODOS #52 OS LUGARES" 
+       "Quebrou regra, será punido.",
+       "A staff está sempre observando.",
+       "Respeite todos os jogadores no chat.",
+       "Não use hacks ou exploits.",
+       "Fique atento aos eventos do servidor.",
+       "Participe dos eventos para ganhar recompensas.",
+       "Em caso de dúvidas, procure a staff.",
+       "Nada passa despercebido.",
+       "Jogue limpo ou aceite as consequências."
        ]
     },
     "chat-log": true,
